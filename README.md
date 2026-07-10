@@ -102,15 +102,6 @@ python c_detection.py
 
 ---
 
-## Project Structure
-
-```text
-├── HSV.py
-├── c_detection.py
-└── README.md
-```
-
----
 
 ## Learning Outcomes
 
@@ -123,20 +114,3 @@ Through this project, I gained practical experience in:
 - Interactive GUI development with OpenCV trackbars
 - Python programming for computer vision
 
----
-
-## Future Improvements
-
-- Detect colors from a larger region instead of a single pixel
-- Support additional color shades
-- Improve detection accuracy under different lighting conditions
-- Add object tracking based on detected colors
-- Develop a graphical user interface (GUI)
-
----
-
-## Author
-
-**Reham Alhmaidi**
-
-Data Science Graduate | AI & Machine Learning Enthusiast
